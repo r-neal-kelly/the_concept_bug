@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 
-// This file shows a current compiler bug that occurs when using MSVC.
+// This file shows a current compiler bug that occurs in two of the major C++20 compilers.
 
 // in_body_t
 template <typename T>
